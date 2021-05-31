@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pikachu</string>
+    <string name="admob_id"></string>
+    <string name="admob_int_id"></string>
+
+    <string name="package_name">com.superbox.aos.jewelsjungle</string>
+</resources>

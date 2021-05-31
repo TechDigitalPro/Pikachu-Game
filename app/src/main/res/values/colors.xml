@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="abs__background_holo_dark">#ff000000</color>
+    <color name="abs__background_holo_light">#fff3f3f3</color>
+    <color name="abs__bright_foreground_holo_dark">@color/abs__background_holo_light</color>
+    <color name="abs__bright_foreground_holo_light">@color/abs__background_holo_dark</color>
+    <color name="abs__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="abs__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#ffaaaaaa</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_light_text_default">#ff737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_light_text_disabled">#ffaaaaaa</color>
+    <color name="common_signin_btn_light_text_focused">#ff737373</color>
+    <color name="common_signin_btn_default_background">#ffdd4b39</color>
+    <color name="common_action_bar_splitter">#ffd2d2d2</color>
+    <color name="white">#ffffffff</color>
+    <color name="title_background">#99ffffff</color>
+    <color name="title_text">#ffffffff</color>
+    <color name="title_text_alt">#ff000000</color>
+    <color name="foreground1">#ffffffff</color>
+    <color name="foreground2">#ff7081a3</color>
+    <color name="background1">#ffedeff4</color>
+    <color name="background2">#ffd5ddeb</color>
+    <color name="background3">#ffe3e8f1</color>
+    <color name="title_separator">#40ffffff</color>
+    <color name="session_foreground_past">#ff999999</color>
+    <color name="pinned_header_background">#ff202020</color>
+    <color name="eden_light">#ffffffff</color>
+    <color name="eden_light_green">#ffe1df9e</color>
+    <color name="eden_green">#ff9da842</color>
+    <color name="eden_dark_green">#ff648c13</color>
+    <color name="eden_dark">#ff132e28</color>
+    <color name="eden_red">#ffa12d0d</color>
+    <color name="translucent_white">#99ffffff</color>
+
+    <color name="ads_name_color">#000000</color>
+    <color name="ads_description_color">#3D3D3D</color>
+
+</resources>
